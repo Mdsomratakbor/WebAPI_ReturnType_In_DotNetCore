@@ -9,4 +9,4 @@
   
 ### Specific Return Types
   
-  
+ `In its simplest form, an ASP.NET Core Web API controller action can just return a specific type like a string or a custom entity. Let’s consider a simple controller action method that returns the list of all employees:`
