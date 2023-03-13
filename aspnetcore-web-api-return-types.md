@@ -6,7 +6,7 @@
 2. **IActionResult**
 3. **ActionResult<T>** 
   
-### Specific Return Types
+### 1. Specific Return Types
   
 `In its simplest form, an ASP.NET Core Web API controller action can just return a specific type like a string or a custom entity. Let’s consider a simple controller action method that returns the list of all Customer:`
 
@@ -39,3 +39,6 @@ public List<Customer> Get() =>
             }
         }
 </pre>
+
+
+### 2. 
