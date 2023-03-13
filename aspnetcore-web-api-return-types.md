@@ -2,9 +2,9 @@
 
 `ASP.NET Core Web API allows us to return different types from the controller action methods:`
 
-- 1. **Specific Types**
-- 2. **IActionResult**
-- 3. **ActionResult<T>** 
+1. **Specific Types**
+2. **IActionResult**
+3. **ActionResult<T>** 
   
   
 ### Specific Return Types
